@@ -25,8 +25,75 @@ window.TUSLIN={
   "en": ""
  },
  "photos": {
-  "hero": [],
-  "gallery": []
+  "hero": [
+   {
+    "src": "photos/exterior-2.jpg",
+    "vi": "Tuslin nơi góc phố",
+    "en": "Tuslin on the corner"
+   },
+   {
+    "src": "photos/interior-hall.jpg",
+    "vi": "Sảnh ngồi & quầy bar",
+    "en": "Dining hall & bar"
+   },
+   {
+    "src": "photos/bar-front.jpg",
+    "vi": "Quầy bar nhìn chính diện",
+    "en": "The bar, front view"
+   },
+   {
+    "src": "photos/menu-wall.jpg",
+    "vi": "Tường menu",
+    "en": "Menu wall"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "photos/exterior-1.jpg",
+    "vi": "Góc phố lúc hoàng hôn",
+    "en": "The corner at dusk"
+   },
+   {
+    "src": "photos/exterior-2.jpg",
+    "vi": "Tuslin nơi góc phố",
+    "en": "Tuslin on the corner"
+   },
+   {
+    "src": "photos/interior-hall.jpg",
+    "vi": "Sảnh ngồi & quầy bar",
+    "en": "Dining hall & bar"
+   },
+   {
+    "src": "photos/interior-bar-1.jpg",
+    "vi": "Quầy bar",
+    "en": "Bar counter"
+   },
+   {
+    "src": "photos/bar-front.jpg",
+    "vi": "Quầy bar nhìn chính diện",
+    "en": "The bar, front view"
+   },
+   {
+    "src": "photos/bar-seating.jpg",
+    "vi": "Quầy bar & chỗ ngồi",
+    "en": "Bar & seating"
+   },
+   {
+    "src": "photos/window-seats.jpg",
+    "vi": "Bàn bên cửa sổ",
+    "en": "Window seats"
+   },
+   {
+    "src": "photos/menu-wall.jpg",
+    "vi": "Tường menu",
+    "en": "Menu wall"
+   },
+   {
+    "src": "photos/bar-service.jpg",
+    "vi": "Quầy phục vụ",
+    "en": "Service bar"
+   }
+  ]
  },
  "events": [],
  "menu": [
