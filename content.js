@@ -424,6 +424,38 @@ window.TUSLIN={
    ]
   }
  ],
+ "moods": [
+  {
+   "vi": "Thư giãn",
+   "en": "Mellow",
+   "i": 4
+  },
+  {
+   "vi": "Mạnh mẽ",
+   "en": "Bold",
+   "i": 0
+  },
+  {
+   "vi": "Tươi mát",
+   "en": "Fresh",
+   "i": 1
+  },
+  {
+   "vi": "Cú đêm",
+   "en": "Night owl",
+   "i": 2
+  },
+  {
+   "vi": "Cay nồng",
+   "en": "Spicy",
+   "i": 3
+  },
+  {
+   "vi": "Cổ điển",
+   "en": "Classic",
+   "i": 5
+  }
+ ],
  "signature": [
   {
    "n": "The Stag",
